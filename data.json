@@ -1,0 +1,188 @@
+[
+    {
+        "Id": "AliferSouza",
+        "Nome": "Alifer Souza",
+        "Whatsapp": "5531993253883",
+        "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBkP9AFf504PzAxlt3aoz6chxZ1BqSDnSFyHNvAhO1RhrtCHc9nVMOFIsKtOMps6Dy7cI&usqp=CAU",
+        "Produtos": [
+            {
+                "Id": "0",
+                "Imagem": "./public/images/burger.jpg",
+                "Titulo": "Burger",
+                "Descricao": "Burger muinto gostoso",
+                "Categoria": "Lanche",
+                "Preco": 1.50,
+                "Infocaloria": "200 Kcal",
+                "Quantidade": "10"
+            },
+            {
+                "Id": "1",
+                "Imagem": "./public/images/burger.jpg",
+                "Titulo": "Burger",
+                "Descricao": "Burger muinto gostoso",
+                "Categoria": "Lanche",
+                "Preco": 2.50,
+                "Infocaloria": "200 Kcal",
+                "Quantidade": "10"
+            },
+            {
+                "Id": "2",
+                "Imagem": "./public/images/burger.jpg",
+                "Titulo": "Burger",
+                "Descricao": "Burger muinto gostoso",
+                "Categoria": "Lanche",
+                "Preco": 3.50,
+                "Infocaloria": "200 Kcal",
+                "Quantidade": "10"
+            },
+            {
+                "Id": "3",
+                "Imagem": "./public/images/burger.jpg",
+                "Titulo": "Burger",
+                "Descricao": "Burger muinto gostoso",
+                "Categoria": "Lanche",
+                "Preco": 4.50,
+                "Infocaloria": "200 Kcal",
+                "Quantidade": "10"
+            },
+            {
+                "Id": "4",
+                "Imagem": "./public/images/burger.jpg",
+                "Titulo": "Burger",
+                "Descricao": "Burger muinto gostoso",
+                "Categoria": "Lanche",
+                "Preco": 5.50,
+                "Infocaloria": "200 Kcal",
+                "Quantidade": "10"
+            },
+            {
+                "Id": "5",
+                "Imagem": "./public/images/burger.jpg",
+                "Titulo": "Burger",
+                "Descricao": "Burger muinto gostoso",
+                "Categoria": "Lanche",
+                "Preco": 6.50,
+                "Infocaloria": "200 Kcal",
+                "Quantidade": "10"
+            },
+            {
+                "Id": "6",
+                "Imagem": "https://cdn.dooca.store/418/products/coca.jpg?v=1589835707",
+                "Titulo": "Coca-cola",
+                "Descricao": "Coca-cola  475 ml",
+                "Categoria": "Bebida",
+                "Preco": 3.00,
+                "Infocaloria": "201 Kcal",
+                "Quantidade": "5"
+            },
+            {
+                "Id": "7",
+                "Imagem": "https://cdn.dooca.store/418/products/coca.jpg?v=1589835707",
+                "Titulo": "Coca-cola",
+                "Descricao": "Coca-cola  475 ml",
+                "Categoria": "Bebida",
+                "Preco": 3.00,
+                "Infocaloria": "201 Kcal",
+                "Quantidade": "5"
+            }
+         
+        ],
+        "Style":""
+    },
+    {
+        "Id": "Antonio",
+        "Nome": "Antonio de Souza",
+        "Whatsapp": "5531993253883",
+        "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBkP9AFf504PzAxlt3aoz6chxZ1BqSDnSFyHNvAhO1RhrtCHc9nVMOFIsKtOMps6Dy7cI&usqp=CAU",
+        "Produtos": [
+            {
+                "Id": "0",
+                "Imagem": "./public/images/burger.jpg",
+                "Titulo": "Burger",
+                "Descricao": "Burger muinto gostoso",
+                "Categoria": "Lanche",
+                "Preco": 1.50,
+                "Infocaloria": "200 Kcal",
+                "Quantidade": "10"
+            },
+            {
+                "Id": "1",
+                "Imagem": "./public/images/burger.jpg",
+                "Titulo": "Burger",
+                "Descricao": "Burger muinto gostoso",
+                "Categoria": "Lanche",
+                "Preco": 2.50,
+                "Infocaloria": "200 Kcal",
+                "Quantidade": "10"
+            },
+            {
+                "Id": "2",
+                "Imagem": "./public/images/burger.jpg",
+                "Titulo": "Burger",
+                "Descricao": "Burger muinto gostoso",
+                "Categoria": "Lanche",
+                "Preco": 3.50,
+                "Infocaloria": "200 Kcal",
+                "Quantidade": "10"
+            },
+            {
+                "Id": "3",
+                "Imagem": "./public/images/burger.jpg",
+                "Titulo": "Burger",
+                "Descricao": "Burger muinto gostoso",
+                "Categoria": "Lanche",
+                "Preco": 4.50,
+                "Infocaloria": "200 Kcal",
+                "Quantidade": "10"
+            },
+            {
+                "Id": "4",
+                "Imagem": "./public/images/burger.jpg",
+                "Titulo": "Burger",
+                "Descricao": "Burger muinto gostoso",
+                "Categoria": "Lanche",
+                "Preco": 5.50,
+                "Infocaloria": "200 Kcal",
+                "Quantidade": "10"
+            },
+            {
+                "Id": "5",
+                "Imagem": "./public/images/burger.jpg",
+                "Titulo": "Burger",
+                "Descricao": "Burger muinto gostoso",
+                "Categoria": "Lanche",
+                "Preco": 6.50,
+                "Infocaloria": "200 Kcal",
+                "Quantidade": "10"
+            },
+            {
+                "Id": "6",
+                "Imagem": "https://cdn.dooca.store/418/products/coca.jpg?v=1589835707",
+                "Titulo": "Coca-cola",
+                "Descricao": "Coca-cola  475 ml",
+                "Categoria": "Bebida",
+                "Preco": 3.00,
+                "Infocaloria": "201 Kcal",
+                "Quantidade": "5"
+            },
+            {
+                "Id": "7",
+                "Imagem": "https://cdn.dooca.store/418/products/coca.jpg?v=1589835707",
+                "Titulo": "Coca-cola",
+                "Descricao": "Coca-cola  475 ml",
+                "Categoria": "Bebida",
+                "Preco": 3.00,
+                "Infocaloria": "201 Kcal",
+                "Quantidade": "5"
+            }
+         
+        ],
+        "Style":""
+    }
+
+  
+
+]
+
+
+
