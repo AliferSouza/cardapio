@@ -1,0 +1,199 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500;600;700;800;900&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+body{    
+    font-weight: 300;
+    font-size: 1.05rem;
+    line-height: 1.5;   
+}
+
+img{
+    width: 100%;
+    display: block;
+}
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* food wrapper */
+.food-wrapper{      
+    background: #f9f9f9;
+    padding: 0.8rem;
+   
+}
+
+.food-wrapper h1{
+    text-transform: uppercase;
+    margin: 2rem 0 2rem 0;
+    letter-spacing: 2px;
+    position: relative;
+}
+.food-wrapper h1::after{
+    position: absolute;
+    bottom: -1rem;
+    left: 50%;
+    transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+    content: "";
+    height: 4px;
+    width: 120px;
+    background: #fa7921;
+}
+
+.foods{    
+    display: flex;
+    gap: 0.5rem; 
+    overflow-x: auto; 
+    padding: 0 0 2rem 0;    
+}
+
+.drinks{    
+    display: flex;
+    gap: 0.5rem; 
+    overflow-x: auto; 
+    padding: 0 0 2rem 0;    
+}
+
+.outros{    
+    display: flex;
+    gap: 0.5rem; 
+    overflow-x: auto; 
+    padding: 0 0 2rem 0;  
+}
+
+.food{    
+    box-shadow: 0 0px 5px 5px rgba(230, 230, 230, 0.64); 
+    border-radius: 2px;   
+}
+
+.food-img img{
+
+    border-radius: 4px 4px 0 0;   
+}
+
+.fa-heart{
+   font-size: 12px;
+   
+}
+
+.food-img{
+    position: relative;
+}
+.food-img span{
+    position: absolute;
+    font-size: 0.4rem;
+    color: #fff;
+    top: 0.2rem;
+    right: 0.2rem;
+}
+.food-rate{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    color: #fff;
+    background: #fe9920;
+    padding: 0.1rem 0.2rem;
+    font-size: 75%;
+}
+.Titulo{
+    font-size: 20px;
+    margin: 0 0.8rem 0 0.4rem;  
+}
+.Descrição{
+    position: relative;
+    margin: 0 0.8rem 0 0.4rem; 
+    font-size:10px; 
+}
+
+.food-info{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1.2rem;
+  
+}
+.food-info div{
+    display: flex;
+    align-items: center;
+    color: #fa7921;
+    gap: 0.2rem;
+   
+}
+.food-info span{
+    font-size: 12px;
+    background: #fa7921;
+    color: #fff;
+    border-radius: 4px;   
+    padding:  5px;
+    margin: 0 0.4rem 0 0;  
+}
+.food-info p{
+  font-size: 12px;  
+  margin: 0rem 0.8rem 0 0rem;    
+}
+.food-info i{
+    font-size: 15px;  
+    margin: 1rem 0.2rem 1rem 0.4rem;   
+}
+.food-price-calc{  
+    display: flex;
+    justify-content: space-between;   
+    justify-content: center;
+    gap: 1rem;
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         rem 0rem 0rem 0rem; 
+}
+.food-price-calc h2{
+    color: #fa7921;                                                                     
+    font-size: 15px;
+    padding:  0 0 1rem 0 ;
+}              
+
+.food-quantity{
+    display: flex;
+    align-items: center;
+ 
+}
+
+.food-quantity div{
+    width: 25px;
+    height: 25px;
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 1rem;  
+
+}
+.order-val{
+    font-weight: 400;
+    background: #f9f9f9;
+}
+.order-dec,
+.order-inc{
+    cursor: pointer;
+    background: rgba(0, 0, 0, 0.45);
+    
+}
+.order-dec .fas,
+.order-inc .fas{
+    color: #fff;
+}
+.order-dec:hover,
+.order-inc:hover{
+    background: #fa7921;
+}
+
+
+
+
+
+
+ 
+  
